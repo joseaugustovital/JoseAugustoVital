@@ -30,7 +30,7 @@ styles="max-width:100%;">
 styles="max-width:100%;">
 
 ## Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseaugustovital&show_icons=true&theme=algolia)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseaugustovital&show_icons=true&theme=algolia)
 
 
 ## Latest Project
