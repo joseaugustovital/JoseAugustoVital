@@ -34,7 +34,7 @@ styles="max-width:100%;">
 
 
 ## Latest Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseAugustoVital&repo=8Puzzle-A-Star&show_icons=true&theme=algolia&show_owner=true)](https://github.com/JoseAugustoVital/8Puzzle-A-Star)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JoseAugustoVital&repo=8Puzzle-A-Star&show_icons=true&theme=algolia&show_owner=true)](https://github.com/JoseAugustoVital/Decision-Score-MarketPlace)
 <!--
 **JoseAugustoVital/JoseAugustoVital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
