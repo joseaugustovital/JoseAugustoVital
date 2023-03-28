@@ -2,7 +2,7 @@
 
 ## I'm José Augusto Lajo Vieira Vital 
 - I live in Campo Grande, Mato Grosso do Sul 🇧🇷
-- I'm currently majoring in computer engineering at the Federal University of Mato Grosso do Sul (UFMS)
+- I'm currently majoring in computer science at the Federal University of Mato Grosso do Sul (UFMS)
 - In the last few months I have been deepening my knowledge in artificial intelligence, more specifically in neural networks and convolutional networks 💻
 
 ## Contact me
