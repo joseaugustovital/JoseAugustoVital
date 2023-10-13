@@ -22,19 +22,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Nodejs, PostgreSQL, Knex**
+- Completing Computer Science degree at the Faculty of Computer Science (FACOM), Federal University of Mato Grosso do Sul (UFMS), Brazil.
+- Currently, I am actively involved in system development using JavaScript, primarily with React and Node.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
 
