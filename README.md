@@ -4,8 +4,14 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
+  <p align="center">
+<a href="https://www.linkedin.com/in/joseaugustovital/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/zeaugustovital/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  
+</p>
   <ul align="center">
     <summary><h1 style="display: inline-block; color: green;">Hello 🤙 ! I'm José Augusto Vital</h1></summary>
+    
 
   </ul>
 </div>
@@ -91,17 +97,12 @@
 </div>
 
 <!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/joseaugustovital/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/zeaugustovital/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  
-</p>
 
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=joseaugustovital&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
