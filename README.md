@@ -36,11 +36,7 @@
 
 
 
-<!--- snake-->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> 
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -68,6 +64,11 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=joseaugustovital&theme=monokai&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+<!--- snake-->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div> 
 <!--- trophy (start) -->
 
 
