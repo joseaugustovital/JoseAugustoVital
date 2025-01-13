@@ -18,8 +18,8 @@
 </div>
 
 <!--Intro start-->
-- Completing Computer Science degree at the Faculty of Computer Science (FACOM), Federal University of Mato Grosso do Sul (UFMS), Brazil.
-- Currently, I am actively involved in system development using JavaScript, primarily with React and Node.
+- Bachelor’s Degree in Computer Science from the Faculty of Computer Science (FACOM), Federal University of Mato Grosso do Sul (UFMS), Brazil.
+- Currently engaged in system development, specializing in JavaScript with a focus on Nextjs for frontend and Node.js for backend applications.
 
 <!--Intro end-->
 
