@@ -23,26 +23,6 @@
 
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-
-
-  <!--- trophy (start) -->
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=joseaugustovital&theme=monokai&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-  </div>
-  
-  <!--- snake-->
-  <div align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
-  </div>
-  <!--- trophy (end) -->
-</p>
-
-<!--- stats (end) -->
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
